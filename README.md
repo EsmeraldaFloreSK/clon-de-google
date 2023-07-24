@@ -21,7 +21,9 @@ HTML trabaja de la mano con CSS para crear las páginas web que usamos todos los
 
 Puedes entrar a ver el demo en este vinculo: https://main--preeminent-blancmange-87194c.netlify.app/
 ![imagen](Imagenes/Clon-google.png)
+
 La idea es inspirarte con esta demostración de proyecto. 
+
 **¡Quizá no te quede idéntico o quizá te quede mucho mejor que este demo🤩**, utiliza tu destreza y aprendizaje para que demuestres que tu futuro es ser un(a) programador(a) web.👩🏻💻👦🏻
 
 ## 3.¿Qué
