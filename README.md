@@ -48,6 +48,29 @@ Se te pide que sea una sola página que contenga las siiguientes secciones:
 
 ## 4. Objetivos de aprendizaje
 
+El objetivo principal de este proyecto es desarrollar una interfaz utilizando HTML y CSS, en toda la aplicación.
+
+Aplicarás:
+
+ - Etiquetas estándar HTML5.
+ - Estilos con CSS.
+
+****
+
+## 5. Requisitos
+
+Usa esta lista para saber sobre los requisitos míimos del proyecto:
+
+## GENERAL
+
+Realizarse de manera individual
+
+## UI
+ - [] Aplicar en todo el sitio HTML semántico de estándar no.5 (HTML5).
+ - [] Aplicar tipos de selectores en CSS.
+ - [] Sección 'Header', 'main', 'footer'
+
+   Happy coding!❤
 
 
 
