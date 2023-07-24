@@ -56,12 +56,12 @@ nav .nav-right-section img {
                                /* clase */
 header {
     /*Modelo de caja (tamaños)*/
-    height: 8vh;
+    height: 20vh;
     
 }
 main {
     /*Modelo de caja (tamaños)*/
-    height: 78vh;
+    height: 68vh;
 
     /* Configuración de el contenedor padre (como se van a comportar los hijos)*/
     display: flex;
