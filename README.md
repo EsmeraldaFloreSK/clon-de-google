@@ -27,7 +27,22 @@ La idea es inspirarte con esta demostración de proyecto.
 
 **¡Quizá no te quede idéntico o quizá te quede mucho mejor que este demo🤩**, utiliza tu destreza y aprendizaje para que demuestres que tu futuro es ser un(a) programador(a) web.👩🏻💻👦🏻
 
-## 3.¿Qué
+## 3.¿Qué construiras?
+
+Este proyecto está enfocado en construir la interfaz estática de Google:
+
+Se te pide que sea una sola página que contenga las siiguientes secciones:
+ - **a. Header**
+  Sección que involucra la foto de perfil,iconos, logo de Google y las áreas principales del sitio.
+- **b. Main**
+  Sección del contenedor para los elementos centrales de la página.
+- **c. Foster**
+  Sección que incluye hipervínculos al final de la página.
+
+****
+
+## 4. Objetivos de aprendizaje
+
 
 
 
