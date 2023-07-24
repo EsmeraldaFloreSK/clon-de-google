@@ -6,7 +6,7 @@
     padding: 0px;
 
     /*configuraciones letras*/
-    font-size: 14px;
+    font-size: 13px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -51,18 +51,16 @@ nav .nav-right-section img {
 }
 
 
-
-
                                /* clase */
 header {
     /*Modelo de caja (tamaños)*/
     height: 20vh;
-    
+    /* 8 tamaño antiguo */
 }
 main {
     /*Modelo de caja (tamaños)*/
     height: 68vh;
-
+/* 78 valor antiguo */
     /* Configuración de el contenedor padre (como se van a comportar los hijos)*/
     display: flex;
     flex-direction: column;
@@ -106,12 +104,13 @@ a:link {
 a:visited {
     text-decoration: none;
     /*colores*/
-    color:rgba(0,0,0,.87);
+    color:#70757a (0,0,0,.87);
 }
 
 /*Comportamiento del link cuando el mouse está encima*/
 a:hover {
     text-decoration: underline;
+    color:#70757a
 }
 
 #nav-right-section{
@@ -133,7 +132,7 @@ a:hover {
 
 .pais {
     /*Modelo de caja (espaciados)*/
-    padding: 15px 30px;
+    padding: 10px 30px;
     color: #70757a;
 }
 
@@ -218,12 +217,6 @@ button:hover{
 }
 
 
-
-
-
-
-
-
 /* ofrecido por google  */
 .main-region {
     /*Modelo de caja (espaciados)*/
@@ -256,5 +249,5 @@ button:hover{
 .main-region{
     /*Modelo de caja (espaciados)*/
     /* margin: 0px 0px 300px 0px; */
-    margin-bottom: 10%;
+    margin-bottom: 50%;
 }
