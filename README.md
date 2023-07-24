@@ -7,10 +7,10 @@ Puedes poner en práctica tus habilidadees revisando y utilizando el código a c
 ## ÍNDICE
 
 *  [1. Introducción](https://github.com/EsmeraldaFloreSK/clon-de-google#1intro)
-*  [2. Demo](url)
-*  [3. ¿Qué construiras?](url)
-*  [4.Objetivos de aprendizaje](url)
-*  [5.Requisitos](url)
+*  [2. Demo](https://github.com/EsmeraldaFloreSK/clon-de-google#2demo)
+*  [3. ¿Qué construiras?](https://github.com/EsmeraldaFloreSK/clon-de-google#3qu%C3%A9-construiras)
+*  [4.Objetivos de aprendizaje](https://github.com/EsmeraldaFloreSK/clon-de-google#4-objetivos-de-aprendizaje)
+*  [5.Requisitos](https://github.com/EsmeraldaFloreSK/clon-de-google#5-requisitos)
 
 ****
 
