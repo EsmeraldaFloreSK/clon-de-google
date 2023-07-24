@@ -8,9 +8,9 @@ Puedes poner en práctica tus habilidadees revisando y utilizando el código a c
 
 * [1. Intro](https://github.com/EsmeraldaFloreSK/clon-de-google#1intro)
  * [2. Demo](url)
-* [3. ¿Qué construiras?](url)
-* [4.Objetivos de aprendizaje](url)
-* [5.Requisitos](url)
+*  [3. ¿Qué construiras?](url)
+*  [4.Objetivos de aprendizaje](url)
+*  [5.Requisitos](url)
 
 ***
 ## 1.Intro
@@ -21,7 +21,7 @@ HTML trabaja de la mano con CSS para crear las páginas web que usamos todos los
 
 Puedes entrar a ver el demo en este vinculo: https://main--preeminent-blancmange-87194c.netlify.app/
 La idea es inspirarte con esta demostración de proyecto. 
-![imagen]("./../imagenes/googlelogo.png")
+![imagen]("./../Clon-google")
 
 
 ## 3.¿Qué
