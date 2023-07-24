@@ -66,9 +66,10 @@ Usa esta lista para saber sobre los requisitos míimos del proyecto:
 Realizarse de manera individual
 
 ## UI
- - [] Aplicar en todo el sitio HTML semántico de estándar no.5 (HTML5).
- - [] Aplicar tipos de selectores en CSS.
- - [] Sección 'Header', 'main', 'footer'
+- [ ] Aplicar en todo el sitio HTML semántico de estándar no.5 (HTML5).
+- [ ] Aplicar tipos de selectores en CSS.
+- [ ] Sección `Header`, `main`, `footer`
+
 
    Happy coding!❤
 
