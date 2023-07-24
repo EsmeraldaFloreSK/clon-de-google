@@ -1,12 +1,12 @@
 # Clon de Gooogle (HTML,CSS)
 
-Clon de google: Proyecto realizado con la intención de aplicar los conocimientos obtenidos en el bootcamp de Tecnolochicas PRO Summer Camp.
+Proyecto realizado con la intención de aplicar los conocimientos obtenidos en el bootcamp de Tecnolochicas PRO Summer Camp 2023.
 
 Puedes poner en práctica tus habilidadees revisando y utilizando el código a continuacion.
 
 ## ÍNDICE
 
-* [1. Intro](url)
+* [1. Intro](https://github.com/EsmeraldaFloreSK/clon-de-google#1intro)
  * [2. Demo](url)
 * [3. ¿Qué construiras?](url)
 * [4.Objetivos de aprendizaje](url)
